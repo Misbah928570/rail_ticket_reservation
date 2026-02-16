@@ -8,5 +8,3 @@ Technologies used: HTML, PHP, Javascript, MySQL database.
 - Registeration of a new user
 - timing of arrival and departure
 - details of booked tickets
-
-# abc abc abc abc
